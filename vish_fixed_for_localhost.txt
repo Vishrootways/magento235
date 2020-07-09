@@ -1,0 +1,6 @@
+D:\xampp_7_4\htdocs\vishgit\magento2\235\app\etc
+
+D:\xampp_7_4\htdocs\vishgit\magento2\235\vendor\magento\framework\View\Element\Template\File
+
+
+D:\xampp_7_4\htdocs\vishgit\magento2\235\vendor\magento\framework\Image\Adapter
